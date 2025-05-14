@@ -36,8 +36,6 @@ const Header = props => {
         <button type="button" className="logout-button" onClick={onClickLogout}>
           Logout
         </button>
-        <p>sample username:rahul</p>
-        <p>sample password:rahul@2021</p>
       </div>
     </nav>
   )
